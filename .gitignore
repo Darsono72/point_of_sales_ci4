@@ -128,7 +128,7 @@ nb-configuration.xml
 
 # Secret File
 #---------------------------
-Config/Database.php
+*/Config/Database.php
 sftp-config.json
 .htaccess
 error_log
