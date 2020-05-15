@@ -132,3 +132,4 @@ app/Config/Database.php
 sftp-config.json
 .htaccess
 error_log
+.env
